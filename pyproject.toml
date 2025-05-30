@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "convert-audio-m4a-to-mp3"
+version = "0.1.0"
+description = ""
+authors = ["evgen-kulik <e.kulik.atom@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pydub = "^0.25.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
