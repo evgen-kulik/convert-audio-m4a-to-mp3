@@ -1,7 +1,5 @@
 ---
 
-## 📄 `README.md`
-
 ````markdown
 # 🎵 convert-audio-m4a-to-mp3
 
