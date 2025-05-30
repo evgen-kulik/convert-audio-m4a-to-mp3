@@ -104,5 +104,5 @@ MIT License
 
 ## 📬 Author
 
-Made with ❤️ by \Yevhen Kulyk
+Made with ❤️ by Yevhen Kulyk
 ---
